@@ -1,0 +1,10 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+lenovo      3829  100  0.1   8284  4096 pts/2    R+   15:48   0:00 ps aux --sort=-%cpu
+root           1  0.0  0.3  22020 12784 ?        Ss   14:04   0:03 /sbin/init
+root          55  0.0  0.4  66828 19188 ?        S<s  14:04   0:01 /usr/lib/systemd/systemd-journald
+root        3478  0.0  0.3 1756364 12800 ?       Ssl  15:38   0:00 /usr/libexec/wsl-pro-service
+lenovo      1595  0.0  0.2   9508  8192 pts/2    Ss   14:28   0:00 -bash
+message+     170  0.0  0.1   9636  4864 ?        Ss   14:04   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         101  0.0  0.1  25312  6528 ?        Ss   14:04   0:00 /usr/lib/systemd/systemd-udevd
+lenovo       371  0.0  0.2  20316 11008 ?        Ss   14:04   0:00 /usr/lib/systemd/systemd --user
+systemd+     126  0.0  0.1  91028  7552 ?        Ssl  14:04   0:00 /usr/lib/systemd/systemd-timesyncd

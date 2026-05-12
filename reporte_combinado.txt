@@ -1,0 +1,13 @@
+=== REPORTE COMBINADO Windows + Ubuntu ===
+Generado: 2026-05-09 15:56:29.149055
+
+--- Datos leídos desde Windows ---
+=== Reporte generado desde Ubuntu ===
+Fecha: Sat May  9 15:44:49 PDT 2026
+Usuario Ubuntu: lenovo
+Directorio: /mnt/c/Users/Lenovo/Desktop/practica_so
+Kernel: 6.6.87.2-microsoft-standard-WSL2
+RAM libre: 3.3Gi
+Modificado desde Windows
+--- Datos de Ubuntu ---
+Memoria: Mem:           3.8Gi       432Mi       3.3Gi       3.5Mi       145Mi       3.3Gi
